@@ -16,7 +16,7 @@ Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passiona
 <img align="right" alt="GIF" src="https://github.com/anshulkapoor018/anshulkapoor018/blob/main/code.gif?raw=true" width="480" height="280" />
   
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@anshulkapoor018](mailto:anshulkapoor018@gmail.com)
+- 📫 How to reach me: [@anshulkapoor018](mailto:anshul.kapoor@billgo.com)
 - 📝 [Resume](https://drive.google.com/file/d/1Gktruga2PIDxEAoBMDny5fG7YSX1aQ-u/view?usp=sharing)
 
 **Languages and Tools:**  
