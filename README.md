@@ -1,17 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/anshulkapoor018">
-  <img align="left" alt="Anshul Kapoor | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anshulkapoor018/">
-  <img align="left" alt="Anshul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=anshulkapoor0018.anshulkapoor0018)
-
 <br />
 
-Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passionate self-taught Software Developer specializing in Swift Programming and Full Stack Web Development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a graduate with a Masters in Software Engineering and a passionate self-taught Software Developer. I specialize in Swift Programming and Full Stack Web Development, where I thrive on dreaming up ideas and turning them into reality through elegant interfaces. With over 5 years of dedicated experience, I've honed my skills in full-stack development with a focus on web and mobile solutions.
+
+My educational journey began with a Bachelor of Technology degree, and I continued to excel in my academic pursuits by achieving summa cum laude honors during my Masters in Software Engineering. This accomplishment reflects my commitment to excellence and a deep understanding of cutting-edge technologies and best practices.
+
+Continuously expanding my knowledge, I embrace emerging technologies to drive innovation. Notably, I led the development of an iOS app revolutionizing exam preparation for 'UPSC,' showcasing my ability to conceptualize and execute innovative solutions.
+
+My full-stack capabilities seamlessly bridge frontend and backend development, ensuring cohesive and efficient systems. Proficient in the latest frameworks, tools, and techniques, I create exceptional user experiences. Currently, I collaborate with industry leaders in FinTech, simplifying the bill payment process through intuitive and user-centric solutions.
 
 <img align="right" alt="GIF" src="https://github.com/anshulkapoor018/anshulkapoor018/blob/main/code.gif?raw=true" width="480" height="280" />
   
@@ -32,6 +29,6 @@ Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passiona
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://res.cloudinary.com/django/image/upload/v1615871013/Mongo_dwaxyp.png"></code>
 
-📊 **What I am Working on:** Billpay Experience | ICM
+📊 **What I am Working on:** Billpay Experience UI
 
 <!--END_SECTION:waka-->
